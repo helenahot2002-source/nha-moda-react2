@@ -6,5 +6,8 @@
 [build.environment]
   NODE_VERSION = "20"
 
-# O Next.js moderno na Netlify usa o adaptador OpenNext automaticamente.
-# O next/image passa a ser servido pelo Netlify Image CDN no deploy.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Forcamos a integracao oficial do Next.js na Netlify para evitar deploy verde
+# com preview a devolver 404 em projetos com App Router.
