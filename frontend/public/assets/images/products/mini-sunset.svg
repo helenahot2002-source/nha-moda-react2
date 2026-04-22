@@ -1,0 +1,9 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#F7E7DA"/>
+  <path d="M0 1000V565C108 499 179 462 270 470C377 479 442 599 558 603C637 606 706 562 800 492V1000H0Z" fill="#22171B"/>
+  <circle cx="623" cy="186" r="116" fill="#DF5C43" fill-opacity="0.3"/>
+  <path d="M403 195C486.947 195 555 263.053 555 347V548C555 631.947 486.947 700 403 700C319.053 700 251 631.947 251 548V347C251 263.053 319.053 195 403 195Z" fill="#FFF4EA"/>
+  <path d="M316 260H489L539 413L475 676H330L266 413L316 260Z" fill="#DF5C43"/>
+  <path d="M338 260C338 224.654 366.654 196 402 196H403C438.346 196 467 224.654 467 260V292H338V260Z" fill="#22171B"/>
+  <text x="120" y="911" fill="#FFF4EA" font-family="Arial, sans-serif" font-size="36" letter-spacing="4">MINI SUNSET FESTA</text>
+</svg>

@@ -1,0 +1,7 @@
+# Root ignore rules for the monorepo
+
+**/node_modules/
+**/.next/
+**/.env.local
+**/.env*
+!frontend/.env.example

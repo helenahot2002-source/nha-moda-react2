@@ -1,0 +1,10 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#FBF6F0"/>
+  <rect x="84" y="112" width="632" height="776" rx="44" fill="#F0E0D2"/>
+  <circle cx="170" cy="208" r="92" fill="#C89F62" fill-opacity="0.34"/>
+  <circle cx="602" cy="790" r="125" fill="#DF5C43" fill-opacity="0.17"/>
+  <path d="M213 339L400 239L587 339L503 725H297L213 339Z" fill="#22171B"/>
+  <path d="M302 363H497L547 504L452 762H347L252 504L302 363Z" fill="#FFF8F1"/>
+  <path d="M302 363C302 307.772 346.772 263 402 263V263C457.228 263 502 307.772 502 363H302Z" fill="#DF5C43"/>
+  <text x="115" y="926" fill="#22171B" font-family="Arial, sans-serif" font-size="36" letter-spacing="4">KIMONO RIA URBANA</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="900" height="1125" viewBox="0 0 900 1125" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1125" fill="#EAD6C8"/>
+  <rect x="72" y="84" width="756" height="957" rx="44" fill="#FFF7F0"/>
+  <circle cx="691" cy="215" r="131" fill="#DF5C43" fill-opacity="0.16"/>
+  <circle cx="266" cy="848" r="204" fill="#C89F62" fill-opacity="0.18"/>
+  <path d="M463 228C554.679 228 629 302.321 629 394V725C629 816.679 554.679 891 463 891C371.321 891 297 816.679 297 725V394C297 302.321 371.321 228 463 228Z" fill="#22171B"/>
+  <path d="M425 272C481.333 272 527 317.667 527 374V446H399V374C399 317.667 444.667 272 501 272H425Z" fill="#DF5C43"/>
+  <path d="M355 468H571V732C571 806.558 510.558 867 436 867C361.442 867 301 806.558 301 732V522C301 492.177 325.177 468 355 468Z" fill="#FFF7F0"/>
+  <path d="M301 563L571 711V742C571 808.274 517.274 862 451 862H421C354.726 862 301 808.274 301 742V563Z" fill="#DF5C43"/>
+  <path d="M340 522C393 578.667 467.333 607 563 607" stroke="#22171B" stroke-width="20" stroke-linecap="round"/>
+  <text x="115" y="171" fill="#22171B" font-family="Georgia, serif" font-size="60" letter-spacing="8">NHA MODA</text>
+  <text x="115" y="230" fill="#6D5B64" font-family="Arial, sans-serif" font-size="24" letter-spacing="6">EDITORIAL DROP</text>
+</svg>

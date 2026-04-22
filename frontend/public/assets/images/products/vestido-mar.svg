@@ -1,0 +1,9 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#F5EBDD"/>
+  <circle cx="626" cy="217" r="124" fill="#DF5C43" fill-opacity="0.2"/>
+  <path d="M404 184C496.784 184 572 259.216 572 352V676C572 768.784 496.784 844 404 844C311.216 844 236 768.784 236 676V352C236 259.216 311.216 184 404 184Z" fill="#22171B"/>
+  <path d="M366 233C420.124 233 464 276.876 464 331V419H338V331C338 276.876 381.876 233 436 233H366Z" fill="#F7F2EC"/>
+  <path d="M293 452H515V686C515 748.408 464.408 799 402 799C339.592 799 289 748.408 289 686V456C289 453.791 290.791 452 293 452Z" fill="#DF5C43"/>
+  <path d="M289 558L515 693V707C515 770.513 463.513 822 400 822H404C340.487 822 289 770.513 289 707V558Z" fill="#F7F2EC"/>
+  <text x="60" y="927" fill="#22171B" font-family="Arial, sans-serif" font-size="36" letter-spacing="4">VESTIDO MAR ESCULPIDO</text>
+</svg>

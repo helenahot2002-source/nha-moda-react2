@@ -1,0 +1,10 @@
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# O Next.js moderno na Netlify usa o adaptador OpenNext automaticamente.
+# O next/image passa a ser servido pelo Netlify Image CDN no deploy.
